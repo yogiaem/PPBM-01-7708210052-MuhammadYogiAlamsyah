@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">listview</string>
+    <!-- Burger -->
+    <string name="burgerDesc">A classic burger features a juicy beef patty nestled between fresh buns, topped with lettuce, tomato, onion, cheese, and condiments like ketchup and mustard, delivering a satisfying blend of savory flavors in every bite.</string>
+
+    <!-- Salmon With Salad -->
+    <string name="salmonDesc">Salmon Salad combines grilled salmon slices with a mix of fresh vegetables and a zesty dressing, offering a nutritious and flavorful dish packed with protein, omega-3, and a medley of vitamins and antioxidants.</string>
+
+    <!-- Jameson Wine -->
+    <string name="jamesonDesc">Jameson Irish Whiskey, renowned for its smoothness, offers a rich and distinct taste, perfect for savoring neat or in various cocktail mixes, providing a delightful drinking experience.</string>
+
+    <!-- Coffee -->
+    <string name="coffeeDesc">Indulge in a freshly brewed cup of coffee, offering a rich aroma and robust flavor that can be customized with milk, sugar, or various flavorings, delivering a perfect energy boost.</string>
+
+    <!-- Milk -->
+    <string name="milkDesc">Enjoy fresh, cold milk served in its pure form or use it to enrich your coffee, cereals, or other beverages, providing essential nutrients and a creamy taste.</string>
+
+    <!-- Mineral Water -->
+    <string name="mineralDesc">Chilled mineral water, refreshing and hydrating, offering a crisp and clean taste to quench your thirst.</string>
+
+    <!-- Ice Cream -->
+    <string name="iceCreamDesc"> Creamy and indulgent, our assortment of ice cream flavors serves as a delightful treat, whether scooped into a bowl or enjoyed in a crispy cone.</string>
+
+    <!-- Donut -->
+    <string name="donutDesc">A freshly baked donut, whether glazed or filled, offers a sweet and satisfying pastry perfect for pairing with your favorite beverage or enjoyed on its own.</string>
+
+    <!-- Cassava Chips -->
+    <string name="chipsDesc">Crispy and savory chips made from cassava, providing a flavorful and crunchy snack option to accompany your meal or as a standalone treat.</string>
+</resources>
